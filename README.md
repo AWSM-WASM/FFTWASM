@@ -29,7 +29,7 @@ npm install --save pulsefft
 
 ## Usage
 
-This library is a WebAssembly implementation of kissFFT; consult the [kissFFT README](https://github.com/bazaar-projects/kissfft) if you want more info on the internal FFT details. 
+This library is a WebAssembly implementation of kissFFT; consult the [kissFFT README](https://github.com/mborgerding/kissfft) if you want more info on the internal FFT details. 
 
 ### Instantiate Pulse
 
